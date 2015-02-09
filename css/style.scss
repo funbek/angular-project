@@ -1,0 +1,10 @@
+$new : 10px;
+
+body{
+	margin: 0;
+	padding: $new;
+
+	div{
+		width: $new +100;
+	}
+}
